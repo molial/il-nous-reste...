@@ -1,0 +1,30 @@
+mesures de durée :
+-milli secondes
+-secondes
+-minutes
+-heures
+-jours
+-semaines
+-mois
+-années
+
+-dodos
+-...
+
+disign :
+scroll de page ou sur chaqu'une sera marquer une unitée différente
+
+nombres de chaque unitée d'une couleur différente
+
+1 - Il nous reste...
+2 - x années
+3 - x mois
+...
+9 - et donc en tous
+x années, x mois,...
+10 - puis aussi x dodos
+11 - ...avant de se voir ^^
+
+liens :
+scroll - https://www.youtube.com/watch?v=htw4iKMYzEc&ab_channel=developedbyed
+
